@@ -1,0 +1,14 @@
+D:\DW\uutuipfnd\ur\ur.netc#Spt24\AIsrchOpnAI\CalCS\bin\Debug\net8.0\CalCS.exe
+D:\DW\uutuipfnd\ur\ur.netc#Spt24\AIsrchOpnAI\CalCS\bin\Debug\net8.0\CalCS.deps.json
+D:\DW\uutuipfnd\ur\ur.netc#Spt24\AIsrchOpnAI\CalCS\bin\Debug\net8.0\CalCS.runtimeconfig.json
+D:\DW\uutuipfnd\ur\ur.netc#Spt24\AIsrchOpnAI\CalCS\bin\Debug\net8.0\CalCS.dll
+D:\DW\uutuipfnd\ur\ur.netc#Spt24\AIsrchOpnAI\CalCS\bin\Debug\net8.0\CalCS.pdb
+D:\DW\uutuipfnd\ur\ur.netc#Spt24\AIsrchOpnAI\CalCS\obj\Debug\net8.0\CalCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\DW\uutuipfnd\ur\ur.netc#Spt24\AIsrchOpnAI\CalCS\obj\Debug\net8.0\CalCS.AssemblyInfoInputs.cache
+D:\DW\uutuipfnd\ur\ur.netc#Spt24\AIsrchOpnAI\CalCS\obj\Debug\net8.0\CalCS.AssemblyInfo.cs
+D:\DW\uutuipfnd\ur\ur.netc#Spt24\AIsrchOpnAI\CalCS\obj\Debug\net8.0\CalCS.csproj.CoreCompileInputs.cache
+D:\DW\uutuipfnd\ur\ur.netc#Spt24\AIsrchOpnAI\CalCS\obj\Debug\net8.0\CalCS.dll
+D:\DW\uutuipfnd\ur\ur.netc#Spt24\AIsrchOpnAI\CalCS\obj\Debug\net8.0\refint\CalCS.dll
+D:\DW\uutuipfnd\ur\ur.netc#Spt24\AIsrchOpnAI\CalCS\obj\Debug\net8.0\CalCS.pdb
+D:\DW\uutuipfnd\ur\ur.netc#Spt24\AIsrchOpnAI\CalCS\obj\Debug\net8.0\CalCS.genruntimeconfig.cache
+D:\DW\uutuipfnd\ur\ur.netc#Spt24\AIsrchOpnAI\CalCS\obj\Debug\net8.0\ref\CalCS.dll
